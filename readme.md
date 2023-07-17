@@ -1,1 +1,1 @@
-# Hello felllas This is our repo for gcp devops project
+# Hello stupid fellas This is our repo for gcp devops project
